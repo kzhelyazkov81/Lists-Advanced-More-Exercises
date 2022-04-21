@@ -18,3 +18,4 @@ if min(population) == minimum_wealth:
     print(population)
 else:
     print('No equal distribution possible')
+
